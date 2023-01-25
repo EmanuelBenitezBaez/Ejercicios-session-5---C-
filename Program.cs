@@ -66,7 +66,7 @@ switch (opcionLenguaje)
         Console.WriteLine("Haz seleccionado el lenguaje Java!!");
         break;
 
-    case "":
+    case "3":
         Console.WriteLine("Haz seleccionado el lenguaje C++!!");
         break;
 
